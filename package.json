@@ -1,7 +1,7 @@
 {
-  "name": "shell",
+  "name": "nodeconsolebot",
   "version": "0.0.1",
-  "description": "Simple command shell using Prague",
+  "description": "Simple node console bot using Prague",
   "main": "shell.js",
   "scripts": {
     "build": "tsc",
