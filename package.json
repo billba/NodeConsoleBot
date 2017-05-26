@@ -1,0 +1,21 @@
+{
+  "name": "shell",
+  "version": "0.0.1",
+  "description": "Simple command shell using Prague",
+  "main": "shell.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill Barnes",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.7.0",
+    "prague-nodeconsole": "^0.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.22",
+    "typescript": "^2.3.3"
+  }
+}
